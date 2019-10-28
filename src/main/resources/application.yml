@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+netty:
+  server:
+    port: 3333
+
+logging:
+  file: log/vis.log
